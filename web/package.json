@@ -1,5 +1,5 @@
 {
-  "name": "sanity-gridsome-web",
+  "name": "blogRTM",
   "private": true,
   "scripts": {
     "build": "gridsome build",
